@@ -1,1 +1,19 @@
+2)
+pwd
 
+3)
+id
+
+4)
+ls /proc
+
+5)
+head /proc/meminfo
+
+6)
+head /proc/cpuinfo
+tail /proc/cpuinfo
+cat /proc/cpuinfo
+
+7)
+cat /etc/os-release
